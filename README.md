@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:fire::fire::fire:
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ganmolt&count_private=true&show_icons=true" />
 </a>
@@ -7,6 +9,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganmolt" />
 </a>
 
+<br clear="left">
+<p>:fire::fire::fire:<br></p>
+<img align="left" src="https://atcoder-badges.now.sh/api/atcoder/ganmolt"</img>
+<!--
+https://img.shields.io/badge/dynamic/<TYPE>.svg?uri=<URI>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+ex)
+https://img.shields.io/badge/dynamic/json.svg?label=elm-package&colorB=5f9ea0&query=$.version&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fymtszw%2Felm-xml-decode%2Fmaster%2Felm-package.json&prefix=v
+-->
 
 <!--
 **ganmolt/ganmolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
