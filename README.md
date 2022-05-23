@@ -11,7 +11,7 @@
 
 <br clear="left">
 <p>:fire::fire::fire:<br></p>
-<img align="left" src="https://atcoder-badges.now.sh/api/atcoder/ganmolt"</img>
+<img align="left" src="https://atcoder-badges.now.sh/api/atcoder/ganmolt" />
 <!--
 https://img.shields.io/badge/dynamic/<TYPE>.svg?uri=<URI>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 ex)
