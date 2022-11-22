@@ -26,6 +26,7 @@ ___
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/totalPoint/count100)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/rawPoint/countRawOver99)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/totalPoint/countOver99)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/cntChart498)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/cntChart495)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/cntChart490)
 
