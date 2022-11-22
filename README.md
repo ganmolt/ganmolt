@@ -16,7 +16,14 @@
 https://img.shields.io/badge/dynamic/<TYPE>.svg?uri=<URI>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 ex)
 https://img.shields.io/badge/dynamic/json.svg?label=elm-package&colorB=5f9ea0&query=$.version&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fymtszw%2Felm-xml-decode%2Fmaster%2Felm-package.json&prefix=v
--->
+--><br>
+
+___
+
+#### 🎤Karaoke🎤  
+
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/rawPoint/countRaw100)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/totalPoint/count100)
 
 <!--
 **ganmolt/ganmolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
