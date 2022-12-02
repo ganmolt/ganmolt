@@ -26,9 +26,9 @@ ___
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/totalPoint/count100)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/rawPoint/countRawOver99)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/totalPoint/countOver99)
-![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/cntChart498)
-![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/cntChart495)
-![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/cntChart490)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/countChart498)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/countChart495)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/ganmalt/chartTotal/countChart490)
 
 <!--
 **ganmolt/ganmolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
